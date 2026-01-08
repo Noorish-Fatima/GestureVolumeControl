@@ -1,6 +1,3 @@
-# this function works only on macOS
-# to use this on windows use pycaw from https://github.com/AndreMiras/pycaw
-
 import cv2 
 import mediapipe as mp
 import time 
